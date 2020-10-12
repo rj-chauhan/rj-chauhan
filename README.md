@@ -5,7 +5,7 @@
 <p><em>Python Developer at <a href="http://www.tcs.com">TCS</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
+![Twitter Follow](https://img.shields.io/twitter/follow/innocent_coder?label=Follow)
 [![Linkedin: Rohit](https://img.shields.io/badge/-Rohit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rj-chauhan/)](https://www.linkedin.com/in/anmol-p-singh/)
 ![GitHub followers](https://img.shields.io/github/followers/Rj-Innocent-Coder?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://knightdevs.com/)](https://knightdevs.com/)
@@ -13,7 +13,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```Python
+```About Me
 const Mr_Rj = {
     pronouns: "He" | "Him" | "Rj",
     code: ["Python", "Java", "Android", "BI Tools"],
