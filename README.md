@@ -1,10 +1,7 @@
 Hi 👋 My name is Rohit Chauhan
 ==============================
 ![Profile_View](https://gpvc.arturio.dev/Rj-Innocent-Coder)
-![Twitter Follow](https://img.shields.io/twitter/follow/innocent_coder?label=Follow)
-[![Linkedin: Rohit](https://img.shields.io/badge/-Rohit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rj-chauhan/)](https://www.linkedin.com/in/anmol-p-singh/)
-![GitHub followers](https://img.shields.io/github/followers/Rj-Innocent-Coder?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://knightdevs.com/)](https://rj.hashnode.dev/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rohit-chauhan.com/)](https://rohit-chauhan.com/)
 ![](https://visitor-badge.glitch.me/badge?page_id=Rj-Innocent-Coder)
 
 Data Engineer at Instawork
@@ -33,15 +30,10 @@ const Mr_Rj = {
     technologies: {
         mobileApp: ["Android App", "Flutter"],
         languages: ["Python", "Java", "PHP"],
-        devOps: ["AWS", "Docker🐳"],
-        databases: ["mongo", "MySql", "sqlite","Redshift"],
+        databases: ["mongo", "MySql", "sqlite", "Redshift"],
         misc: ["Firebase", "selenium", "open-cv", "php"]
     },
-    currentFocus: "Python Django & Flutter",
+    currentFocus: "Machine Learning",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/rjchauhan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
